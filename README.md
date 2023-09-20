@@ -1,37 +1,71 @@
-# 基于springboot的驾校预约管理系统
-
-#### 介绍
-基于springboot的驾校预约管理系统基于springboot的驾校预约管理系统
-
-#### 软件架构
-软件架构说明
+# 基于springboot的驾校预约管理系统5
 
 
-#### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+## 1、项目介绍
 
-#### 使用说明
+基于springboot的驾校预约管理系统5拥有三种角色：管理员、教练、学员
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+管理员：学员管理、教练管理、车辆管理、车辆关联、维修管理等
 
-#### 参与贡献
+教练：学员查看/毕业、添加课程、维修申请等
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+学员：预约选课，取消预约、练车记录、个人中心
 
 
-#### 特技
+## 2、项目技术
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+后端框架：Mybatis、springboot
+
+前端技术：Bootstrap、html、css、JavaScript、JQuery
+
+## 3、开发环境
+
+- JAVA版本：JDK1.8
+- IDE类型：IDEA、Eclipse都可运行
+- tomcat版本：不需要
+- 数据库类型：MySql（5.5-5.7、8.x版本都可） 
+- maven版本：无限制
+- 硬件环境：Windows
+
+
+## 4、功能介绍
+
+### 4.1 登录
+
+![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309201721795.jpg)
+
+### 4.2 管理员模块
+
+![管理员-学员管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309201721061.jpg)
+
+![管理员-教练管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309201721386.jpg)
+
+![管理员-车辆管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309201721080.jpg)
+
+![管理员-车辆关联](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309201721577.jpg)
+
+![管理员-维修管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309201721177.jpg)
+
+### 4.3 教练模块
+
+![教练-我的课程](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309201722867.jpg)
+
+![教练-添加课程](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309201722263.jpg)
+
+![教练-车辆维修管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309201722253.jpg)
+
+![教练-维修记录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309201722665.jpg)
+
+![教练-学员毕业](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309201722874.jpg)
+
+### 4.4学员模块
+
+![学员-预约练车](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309201721231.jpg)
+
+## 5、视频演示
+
+[点击播放视频，视频位于文章最后](输入链接)
+
+
+
