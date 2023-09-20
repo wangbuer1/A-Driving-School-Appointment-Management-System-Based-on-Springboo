@@ -1,6 +1,10 @@
 # 基于springboot的驾校预约管理系统5
 
+## 获取方式
 
+扫描下方，回复关键词  ：**驾校5** ，获取完整版源码
+
+![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
